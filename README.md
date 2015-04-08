@@ -1,4 +1,5 @@
-Search songs a vk.com.
+Search songs at vk.com.
 
-Use: ./vks <words>
+Use:
+	./vks <words>
 
